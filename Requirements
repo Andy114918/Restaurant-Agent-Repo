@@ -1,1 +1,21 @@
+When the caller calls Ai pick up the phone
+•	AI welcome address to the caller.
+Hello, welcome to Spice Garden how can I help you today? If you want, I can send you menu link to your phone, would you like me to?
+
+•	If the menu link is asked the AI should be able to guide the person, if asked about the dish should be able to tell (just like waiter in the restaurant) and if the person says orally to add something it should be added in the order list on the given link and can see it added. 
+
+•	If the person doesn’t need the menu link and wants to order, they will order as how the AI flow is going on now
+
+On the website we give the restaurant options as follows:
+•	adding items to the menu,
+•	adding daily specials for AI to refer when asked for suggestions
+•	ability to post on the website and it can go to different social media platforms
+•	Analytics 
+•	Restaurant seating arrangement that can push bill to pos system
+•	AI call logs 
+•	Order history of order we get by AI 
+
+POS system handling 
+•	When it is order that is with in the restaurant every order will only be pushed to pos system as bill when clicked on the given options
+•	When it is From AI Agent we can send to pos system to generate as order to pos system and the status on that order will change as order created and when the order is ready the restaurant will have option to change it to order ready. If the Customer didn’t pickup we will send message to the number. If the person comes before the order is ready and food comes, we should have an option as ‘generate bill’ where we will send the bill request to pos system.
 
